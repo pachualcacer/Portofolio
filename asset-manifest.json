@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portofolio/static/css/main.7eb201f7.css",
+    "main.js": "/Portofolio/static/js/main.c1e4e801.js",
+    "static/js/787.b7af92ad.chunk.js": "/Portofolio/static/js/787.b7af92ad.chunk.js",
+    "static/media/main-image.jpeg": "/Portofolio/static/media/main-image.109790ee0c4f3b168dbf.jpeg",
+    "static/media/UNR.png": "/Portofolio/static/media/UNR.3c280d70264c54a44afd.png",
+    "static/media/perfil.jpg": "/Portofolio/static/media/perfil.94c2d06dbccda2f87f08.jpg",
+    "static/media/fceia.jpeg": "/Portofolio/static/media/fceia.4da0f3ecb5ac2189f601.jpeg",
+    "static/media/logo_building.svg": "/Portofolio/static/media/logo_building.54ff65bef2da38233f6311f35d68e37d.svg",
+    "static/media/johndeere.png": "/Portofolio/static/media/johndeere.1d1a39e1b7b0ab9b57d5.png",
+    "static/media/R.png": "/Portofolio/static/media/R.d322fdd8949474ab07d8.png",
+    "index.html": "/Portofolio/index.html",
+    "main.7eb201f7.css.map": "/Portofolio/static/css/main.7eb201f7.css.map",
+    "main.c1e4e801.js.map": "/Portofolio/static/js/main.c1e4e801.js.map",
+    "787.b7af92ad.chunk.js.map": "/Portofolio/static/js/787.b7af92ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eb201f7.css",
+    "static/js/main.c1e4e801.js"
+  ]
+}
